@@ -2,7 +2,7 @@
 
 <h3>O que é o Paint.py?</h3>
 <p> Após uma brincadeira com alguns amigos meus, fui desafiado a re-criar o <b><i>MS Paint</i></b> em apenas um dia.</p>
-<p> Aceitei o desafio e decidi reunir alguns conhecimentos de python que já possuia, juntamente com algumas documentações da interface gráfica <b><i>Tkinter</i></b>. A princípio, a ideia inicial era tentar utilizar alguns módulos do pygame, poré os resultados não mostraram-se tão satisfatórios.</p>
+<p> Aceitei o desafio e decidi reunir alguns conhecimentos de python que já possuia, juntamente com algumas documentações da interface gráfica <b><i>Tkinter</i></b>. A princípio, a ideia inicial era tentar utilizar alguns módulos do pygame para criar a GUI, porém os resultados não mostraram-se tão satisfatórios.</p>
 <p>Então ao final do prazo, surgiu o <b><i>Paint.py</i></b>, claro que não está perfeitamente polido nem tão bonito. Mas resolvi postar pois gostei do resultado final e foi bem divertido de programar!</p> 
 
 <h3>O que é Tkinter?</h3>

@@ -9,7 +9,9 @@
 <p>Tkinter é uma biblioteca da linguagem Python que acompanha a instalação padrão e permite desenvolver interfaces gráficas. Isso significa que qualquer computador que tenha o interpretador Python instalado é capaz de criar interfaces gráficas usando o Tkinter, com exceção de algumas distribuições Linux, exigindo que seja feita o download do módulo separadamente</p>
 
 <h3>Para o funcionamento do programa:</h3>  
-<h4> 1.Instale a biblioteca pillow</h4>
+<h4> 1.Instale a biblioteca pillow:</h4>
+<p>1.1 Se você já possui o Python com a opção <i>Path</i> ativada, digite no terminal:</p>
+ <code>Python3 pip install pillow</code>
 <h4> 2.Verifique se você já possui a biblioteca tkinter</h4>
 <p>2.1 Para usuários do sistema Windows, ela já vem pré-instalada junto ao Python</br> 	
 2.2 Para usuário de linux, abra o terminal e digite o comando abaixo:</p> 
